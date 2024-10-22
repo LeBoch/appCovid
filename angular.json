@@ -35,13 +35,10 @@
               {
                 "glob": "**/*",
                 "input": "public"
-              }              
+              }
             ],
             "styles": [
               "src/styles.css"
-            ],
-            "scripts": [
-              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
             ]
           },
           "configurations": {
